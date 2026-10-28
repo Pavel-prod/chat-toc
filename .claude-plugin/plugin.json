@@ -1,0 +1,11 @@
+{
+  "name": "chat-toc",
+  "version": "0.1.0",
+  "description": "Оглавление чата: панель со списком ответов, клик прокручивает чат к ответу",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pavel-prod"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/Pavel-prod/chat-toc"
+}

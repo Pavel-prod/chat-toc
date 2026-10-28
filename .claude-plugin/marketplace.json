@@ -1,0 +1,5 @@
+{
+  "name": "pavel-mods",
+  "owner": { "name": "Pavel-prod" },
+  "plugins": [{ "name": "chat-toc", "source": "./" }]
+}
